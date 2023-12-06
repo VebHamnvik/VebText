@@ -1,0 +1,20 @@
+Kravspecc for VebText
+
+En bruker skal kunne skrive tekst
+En bruker skal kunne endre skrift til italics, bold, underlined
+En bruker skal kunne endre skriftstørrelse
+En bruker skal kunne endre font
+En bruker skal kunne høyre-, midt-, venstrestille skriften
+
+En bruker skal kunne opprette en ny fil
+En bruker skal kunne lagre
+En bruker skal kunne åpne .txt filer
+En bruker skal kunne velge hvor filen skal lagres
+
+Editoren skal ha dynamisk tittel
+Editoren skal være utformet som en a4 side
+Editoren skal ha en navbar med klikkbare knapper
+Editoren skal ha en scrollbar
+
+Programmet skal skrives i python
+Gui skal lages gjennom tkinter
